@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dijujiwe.github.io/sitemap/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/LIG/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/Ttq/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/QIU/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/Kps/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/QrD/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/Xoj/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/hyL/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/NJS/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/SOZ/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/VLU/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/CFT/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/ZYS/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/xrD/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/XOb/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/Uxo/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/bxV/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/jFb/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/wNf/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/ujA/sitemap_index.dijujiwe
+Sitemap: https://dijujiwe.github.io/lca/sitemap_index.dijujiwe
